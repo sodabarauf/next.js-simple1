@@ -57,7 +57,6 @@ Node.js: Ensure you have Node.js (v12.x or later) installed. You can download it
 - [Email](sodabarauf4@gmail.com)
 - [Github](https://github.com/sodabarauf)
 
-
 ## Contributing 🤝
 
 To contribute, submit bug reports, feature requests, or pull requests via the GitHub repository issues and pull requests tabs.
